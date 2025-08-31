@@ -4,13 +4,13 @@ This repository contains the unified Evolver project with two main components:
 
 ## Components
 
-### 🌐 [Webpage](./webpage)
-The Evolver website and web presence, containing:
+### 🌐 [Webpage](https://github.com/EvolverLifeOS/Evolver_webpage)
+The [Evolver website](https://evolver.chat) and web presence, containing:
 - Landing page and marketing site
 - Documentation and resources
 - Contact and legal pages
 
-### 🤖 [Network](./network)
+### 🤖 [Network](https://github.com/EvolverLifeOS/Evolver_network)
 The Evolver agent network framework, containing:
 - Agent development tools and frameworks
 - Documentation and examples
