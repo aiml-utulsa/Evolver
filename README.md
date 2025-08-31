@@ -18,6 +18,8 @@ Repo for the [Evolver website](https://evolver.chat) and web presence, containin
 
 ## Getting Started
 
+If you're a member of AIML Club at TU, ask permission to access the Evolver repos!
+
 This repository uses git submodules. To clone with all components:
 
 ```bash
