@@ -4,17 +4,17 @@ This repository contains the unified Evolver project with two main components:
 
 ## Components
 
-### 🌐 [Webpage](https://github.com/EvolverLifeOS/Evolver_webpage)
-The [Evolver website](https://evolver.chat) and web presence, containing:
-- Landing page and marketing site
-- Documentation and resources
-- Contact and legal pages
-
-### 🤖 [Network](https://github.com/EvolverLifeOS/Evolver_network)
+### 🤖 Network Repo submodule (private)
 The Evolver agent network framework, containing:
 - Agent development tools and frameworks
 - Documentation and examples
 - Reference implementations
+
+### 🌐 Webpage Repo submodule (private)
+Repo for the [Evolver website](https://evolver.chat) and web presence, containing:
+- Landing page and marketing site
+- Documentation and resources
+- Contact and legal pages
 
 ## Getting Started
 
@@ -32,9 +32,7 @@ git submodule update --init --recursive
 
 ## Development
 
-Each component has its own README with specific development instructions:
-- [Webpage Development](./webpage/README.md)
-- [Network Development](./network/README.md)
+Each component has its own README with specific development instructions.
 
 ## Contributing
 
